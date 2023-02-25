@@ -1,2 +1,1 @@
-# PrepCurse-Henry
-Este es un repositorio del modulo 2 del prepcurse de Henry
+Este es un proyecto de prueba de como crear un repositorio de pueba y clonarlo desde github a mi computadora.
